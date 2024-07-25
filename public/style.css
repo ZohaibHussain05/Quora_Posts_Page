@@ -15,3 +15,8 @@ h1{
 .user{
     font-style: italic;
 }
+button{
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
