@@ -1,0 +1,17 @@
+h1{
+    color: maroon;
+    text-align: center;
+}
+
+.post{
+    background-color: burlywood;
+    width: 50%;
+    margin: 10px auto;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-left: 1rem ;
+}
+
+.user{
+    font-style: italic;
+}
